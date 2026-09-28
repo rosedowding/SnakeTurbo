@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bbfb71a3115c2474f8ab5163338265a8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - redApple: {fileID: 1010732245677522, guid: 6adca91a0bbb5e24cbbd48e3a50e6c5d, type: 2}
+  - goldApple: {fileID: 1421674010587574, guid: cc4c64fe82bf6704c90fc4c09df90e92,
+      type: 2}
+  - poisonApple: {fileID: 1149383319716514, guid: 4b4930ad4106dfb488e830a3b8695335,
+      type: 2}
+  - playerSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
